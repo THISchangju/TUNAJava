@@ -1,4 +1,4 @@
-package org.TUNA.day04.dimarray.exercise;
+package org.TUNA.day04.exercise;
 
 public class Exercise_DimArray3 {
 	public static void main(String[] args) {
